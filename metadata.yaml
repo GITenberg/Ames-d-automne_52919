@@ -1,10 +1,13 @@
 _repo: Ames-d-automne_52919
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Heidbrinck, Oswald Pierre
     gutenberg_agent_id: '47116'
     url: http://www.gutenberg.org/2009/agents/47116
+covers:
+- cover_type: archival
+  image_path: 52919-h/images/cover.jpg
 creator:
   author:
     agent_name: Lorrain, Jean
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '41171'
     url: http://www.gutenberg.org/2009/agents/41171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52919#Ames-d-automne
 gutenberg_bookshelf: FR Chroniques
 gutenberg_issued: '2016-08-28'
 gutenberg_type: Text
