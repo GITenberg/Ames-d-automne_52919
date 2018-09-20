@@ -1,0 +1,33 @@
+_repo: Ames-d-automne_52919
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Heidbrinck, Oswald Pierre
+    gutenberg_agent_id: '47116'
+    url: http://www.gutenberg.org/2009/agents/47116
+creator:
+  author:
+    agent_name: Lorrain, Jean
+    aliases:
+    - Lorrain, J. (Jean)
+    - Duval, Paul Alexandre Martin
+    birthdate: 1855
+    deathdate: 1906
+    gutenberg_agent_id: '41171'
+    url: http://www.gutenberg.org/2009/agents/41171
+description: ''
+gutenberg_bookshelf: FR Chroniques
+gutenberg_issued: '2016-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52919'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Âmes d'automne
+url: http://www.gutenberg.org/ebooks/52919
